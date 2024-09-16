@@ -16,7 +16,7 @@ outputs:
     description: 'Time taken for optimization.'
 
 runs:
-  using: 'node16'
+  using: 'node20'
   pre: |
     npm install
   main: 'index.js'
