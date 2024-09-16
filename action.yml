@@ -1,6 +1,6 @@
 name: 'Svg Somizer'
 description: 'Optimize SVG files in the specified directories.'
-author: 'Your Name'
+author: 'Somizer'
 branding:
   icon: 'box'
   color: 'blue'
