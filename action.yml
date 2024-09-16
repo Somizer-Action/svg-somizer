@@ -1,6 +1,9 @@
 name: 'SVG Optimizer'
 description: 'Optimize SVG files in the specified directories.'
 author: 'Your Name'
+branding:
+  icon: 'box'
+  color: 'blue'
 inputs:
   directories:
     description: 'Comma-separated list of directories to optimize.'
