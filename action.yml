@@ -1,0 +1,14 @@
+name: 'SVG Optimizer'
+description: 'Optimize SVG files in the specified directories.'
+author: 'Your Name'
+inputs:
+  directories:
+    description: 'Comma-separated list of directories to optimize.'
+    required: true
+    default: './'
+outputs:
+  time_taken:
+    description: 'Time taken for optimization.'
+runs:
+  using: 'node16'
+  main: 'index.js'

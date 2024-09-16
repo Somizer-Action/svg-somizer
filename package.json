@@ -1,0 +1,14 @@
+{
+    "name": "svg-somizer",
+    "version": "1.0.0",
+    "description": "svg optimzer using svgo",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Somizer-Action",
+    "license": "MIT",
+    "dependencies": {
+        "svgo": "^3.3.2"
+    }
+}
